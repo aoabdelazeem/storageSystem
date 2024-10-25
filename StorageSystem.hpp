@@ -12,7 +12,7 @@
 #include "Inverter.hpp"
 #include "PVInterface.hpp"
 
-class SonnenBattery
+class storageSystem
 {
     private:
 
